@@ -1,2 +1,2 @@
 # github-training-2
-This is the repo for the second GitHub training exercise.
+This repo contains the answers to the questions and riddles in github-training-1
